@@ -3,7 +3,7 @@ package BLS381
 import (
 	"errors"
 	"fmt"
-	"github.com/spacemeshos/go-spacemesh/amcl"
+	"github.com/spacemeshos/amcl"
 )
 
 // Verify2 verifies a message using BLS381

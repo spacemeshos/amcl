@@ -2,8 +2,8 @@ package testing
 
 import (
 	"fmt"
-	"github.com/spacemeshos/go-spacemesh/amcl"
-	"github.com/spacemeshos/go-spacemesh/amcl/BN254"
+	"github.com/spacemeshos/amcl"
+	"github.com/spacemeshos/amcl/BN254"
 	"testing"
 )
 

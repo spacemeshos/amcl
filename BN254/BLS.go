@@ -21,7 +21,7 @@ under the License.
 
 package BN254
 
-import "github.com/spacemeshos/go-spacemesh/amcl"
+import "github.com/spacemeshos/amcl"
 
 //import "fmt"
 

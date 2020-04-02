@@ -21,7 +21,7 @@ under the License.
 
 package BLS381
 
-import "github.com/spacemeshos/go-spacemesh/amcl"
+import "github.com/spacemeshos/amcl"
 
 //import "fmt"
 

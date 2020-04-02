@@ -22,7 +22,7 @@ under the License.
 package BN254
 
 import "time"
-import "github.com/spacemeshos/go-spacemesh/amcl"
+import "github.com/spacemeshos/amcl"
 
 //import "fmt"
 

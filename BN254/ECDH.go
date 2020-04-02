@@ -22,7 +22,7 @@ under the License.
 package BN254
 
 //import "fmt"
-import "github.com/spacemeshos/go-spacemesh/amcl"
+import "github.com/spacemeshos/amcl"
 
 const INVALID_PUBLIC_KEY int = -2
 const ERROR int = -3
